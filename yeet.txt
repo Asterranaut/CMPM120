@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 yeet
-=======
-yeet 2.0
->>>>>>> master
